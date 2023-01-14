@@ -1,0 +1,4 @@
+#Sat Jun 11 19:55:22 IST 2022
+base.0=D\:\\AndroidStudioProjects\\Digital_Steno_Pro\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

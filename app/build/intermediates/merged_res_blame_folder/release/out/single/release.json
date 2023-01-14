@@ -1,0 +1,374 @@
+[
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_theme_1.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/theme_1.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_ic_format_size_black.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/ic_format_size_black.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_app_logo.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/app_logo.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_default_image.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/default_image.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_ic_done_white.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/ic_done_white.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_dark_theme_1.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/dark_theme_1.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_ic_info_black.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/ic_info_black.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/layout_update_costom.xml.flat",
+        "source": "com.digital.steno.pro.app-main-33:/layout/update_costom.xml"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_security_logo_white.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/security_logo_white.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/layout_info.xml.flat",
+        "source": "com.digital.steno.pro.app-main-33:/layout/info.xml"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_textsize_icon.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/textsize_icon.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_ic_language_black.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/ic_language_black.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_share_logo_black.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/share_logo_black.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_ic_remove_black.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/ic_remove_black.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_ic_format_bold_black.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/ic_format_bold_black.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_security_logo_1.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/security_logo_1.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/layout_pin.xml.flat",
+        "source": "com.digital.steno.pro.app-main-33:/layout/pin.xml"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/layout_ocr.xml.flat",
+        "source": "com.digital.steno.pro.app-main-33:/layout/ocr.xml"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_share_logo_white.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/share_logo_white.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_tools_2.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/tools_2.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_ic_event_note_white.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/ic_event_note_white.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_clear_all_icon.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/clear_all_icon.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_italic_icon.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/italic_icon.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/layout_login.xml.flat",
+        "source": "com.digital.steno.pro.app-main-33:/layout/login.xml"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_ic_translate_black.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/ic_translate_black.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_ic_search_black.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/ic_search_black.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_logo.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/logo.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_ic_close_black.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/ic_close_black.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_privacy_policy.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/privacy_policy.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_dark_theme_2.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/dark_theme_2.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_theme_2.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/theme_2.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_ic_settings_black.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/ic_settings_black.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_ic_account_circle_black.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/ic_account_circle_black.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/layout_announce.xml.flat",
+        "source": "com.digital.steno.pro.app-main-33:/layout/announce.xml"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_share_logo_red_bc.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/share_logo_red_bc.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_ic_add_white.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/ic_add_white.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_ic_menu_black.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/ic_menu_black.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_paste_clipboard_content_2.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/paste_clipboard_content_2.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_tools_3.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/tools_3.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_ic_stop_white.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/ic_stop_white.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_ic_info_white.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/ic_info_white.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/layout_view_note.xml.flat",
+        "source": "com.digital.steno.pro.app-main-33:/layout/view_note.xml"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/xml_provider_paths.xml.flat",
+        "source": "com.digital.steno.pro.app-main-33:/xml/provider_paths.xml"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/layout_reset.xml.flat",
+        "source": "com.digital.steno.pro.app-main-33:/layout/reset.xml"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_ic_save_white.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/ic_save_white.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_announcements_icon.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/announcements_icon.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/layout_email_reset.xml.flat",
+        "source": "com.digital.steno.pro.app-main-33:/layout/email_reset.xml"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_ic_menu_grey.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/ic_menu_grey.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_paste_clipboard_content_1.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/paste_clipboard_content_1.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/layout_save_as_pdf.xml.flat",
+        "source": "com.digital.steno.pro.app-main-33:/layout/save_as_pdf.xml"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/layout_security.xml.flat",
+        "source": "com.digital.steno.pro.app-main-33:/layout/security.xml"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_ic_content_copy_white.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/ic_content_copy_white.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/layout_txt_dialog.xml.flat",
+        "source": "com.digital.steno.pro.app-main-33:/layout/txt_dialog.xml"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_bold_icon.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/bold_icon.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_ic_add_black.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/ic_add_black.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_error_found_icon.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/error_found_icon.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_ic_link_black.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/ic_link_black.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/layout_add_note.xml.flat",
+        "source": "com.digital.steno.pro.app-main-33:/layout/add_note.xml"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_search_icon.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/search_icon.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_ic_account_circle_white.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/ic_account_circle_white.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/layout_settings.xml.flat",
+        "source": "com.digital.steno.pro.app-main-33:/layout/settings.xml"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/layout_main.xml.flat",
+        "source": "com.digital.steno.pro.app-main-33:/layout/main.xml"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_app_banner.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/app_banner.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_ic_search_white.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/ic_search_white.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_ic_format_color_text_black.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/ic_format_color_text_black.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_ic_remove_white.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/ic_remove_white.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_ic_arrow_back_white.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/ic_arrow_back_white.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/layout_announcements.xml.flat",
+        "source": "com.digital.steno.pro.app-main-33:/layout/announcements.xml"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_ocr_icon.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/ocr_icon.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_save_as_txt_icon.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/save_as_txt_icon.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/layout_home.xml.flat",
+        "source": "com.digital.steno.pro.app-main-33:/layout/home.xml"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/layout_note.xml.flat",
+        "source": "com.digital.steno.pro.app-main-33:/layout/note.xml"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/layout__drawer_home.xml.flat",
+        "source": "com.digital.steno.pro.app-main-33:/layout/_drawer_home.xml"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_pro_logo_transbg.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/pro_logo_transbg.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_ic_link_white.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/ic_link_white.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_pdf_icon.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/pdf_icon.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_translate_icon.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/translate_icon.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_ic_account_circle_grey.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/ic_account_circle_grey.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_ic_format_italic_black.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/ic_format_italic_black.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_ic_play_arrow_white.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/ic_play_arrow_white.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/layout_profile.xml.flat",
+        "source": "com.digital.steno.pro.app-main-33:/layout/profile.xml"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_round_close.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/round_close.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/layout_privacy_policy.xml.flat",
+        "source": "com.digital.steno.pro.app-main-33:/layout/privacy_policy.xml"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/layout_change_email.xml.flat",
+        "source": "com.digital.steno.pro.app-main-33:/layout/change_email.xml"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_pro_logo.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/pro_logo.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/layout_debug.xml.flat",
+        "source": "com.digital.steno.pro.app-main-33:/layout/debug.xml"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_ic_edit_white.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/ic_edit_white.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_tools_1.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/tools_1.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_ic_clear_white.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/ic_clear_white.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_ic_clear_all_black.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/ic_clear_all_black.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_ic_mic_white.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/ic_mic_white.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_app_icon.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/app_icon.png"
+    },
+    {
+        "merged": "com.digital.steno.pro.app-merged_res-32:/drawable-xhdpi_paste_icon.png.flat",
+        "source": "com.digital.steno.pro.app-main-33:/drawable-xhdpi/paste_icon.png"
+    }
+]

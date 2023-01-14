@@ -1,0 +1,76 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+	<LinearLayout
+		android:id="@+id/linear4"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:paddingLeft="8dp"
+		android:paddingTop="8dp"
+		android:paddingRight="8dp"
+		android:paddingBottom="5dp"
+		android:gravity="center_horizontal|center_vertical"
+		android:orientation="vertical">
+		<LinearLayout
+			android:id="@+id/linear1"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:padding="8dp"
+			android:orientation="horizontal">
+			<EditText
+				android:id="@+id/edittext1"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:padding="8dp"
+				android:background="#E0E0E0"
+				android:textSize="12sp"
+				android:textColor="#000000"
+				android:hint="Save As...."
+				android:textColorHint="#607D8B"
+				android:singleLine="true"
+				android:imeOptions="actionDone"
+				android:focusable="true" />
+		</LinearLayout>
+		<LinearLayout
+			android:id="@+id/linear2"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:padding="8dp"
+			android:gravity="center_horizontal|center_vertical"
+			android:orientation="horizontal">
+			<Button
+				android:id="@+id/button1"
+				android:layout_width="wrap_content"
+				android:layout_height="40dp"
+				android:layout_marginLeft="10dp"
+				android:padding="8dp"
+				android:background="#03A9F4"
+				android:text="Cancel"
+				android:textSize="12sp"
+				android:textStyle="bold"
+				android:textColor="#FFFFFF" />
+			<LinearLayout
+				android:id="@+id/linear3"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:padding="8dp"
+				android:orientation="vertical"
+				android:layout_weight="1" />
+			<Button
+				android:id="@+id/button2"
+				android:layout_width="wrap_content"
+				android:layout_height="40dp"
+				android:layout_marginRight="10dp"
+				android:padding="8dp"
+				android:background="#03A9F4"
+				android:text="Save"
+				android:textSize="12sp"
+				android:textStyle="bold"
+				android:textColor="#FFFFFF" />
+		</LinearLayout>
+	</LinearLayout>
+</LinearLayout>
